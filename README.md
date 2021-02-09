@@ -5,7 +5,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple demonstration of Chat Application made using socket io where one person can interact with other person in real time, concept of rooms was implemented mimicing private groups in real life applications
+This project is simple demonstration of Chat Application made using web sockets where one person can interact with other person in real time, concept of rooms was implemented mimicing private groups in real life applications
 
 	
 ## Technologies
